@@ -166,3 +166,20 @@ Kupuje nowy czołg
 > SPAWN 2
 < OK
 ```
+
+
+# Błędy
+* **100** - internal server error
+* **101** - unknown error
+* **102** - unknown command
+* **103** - wrong syntax
+* **110** - authorization required
+* **200** - you do not have such tank
+* **201** - you can't drive through that field
+* **202** - no moves left
+* **203** - you do not have such ammunition
+* **210** - there is no such tank type
+* **211** - there is no such ammunition type
+* **300** - not enough money
+* **301** - you have to be in shop
+* **302** - not enough space
