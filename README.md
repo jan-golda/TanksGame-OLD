@@ -1,4 +1,17 @@
 # Komendy
+## LOGIN
+Loguje użytkownika
+```
+> LOGIN <username>
+< OK
+```
+* `<username>` - nazwa użytkownika
+
+**Przykład:**
+```
+> LOGIN regzand
+< OK
+```
 ## INFO
 Zwraca podstawowe informacje na temat danej rundy
 ```
